@@ -1,0 +1,23 @@
+{
+  "name": "InsuranceDekho",
+  "short_name": "InsuranceDekho",
+  "start_url": "/?utm_source=web_app_manifest",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#24272c",
+  "background_color": "#ECEFF1",
+  "gcm_sender_id": "103953800507",
+  "gcm_user_visible_only": true,
+  "icons": [
+    {
+      "src": "https://static.insurancedekho.com/pwa/img/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://static.insurancedekho.com/pwa/img/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
