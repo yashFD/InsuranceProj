@@ -941,7 +941,7 @@ button:focus,input:focus{
     padding-bottom:0!important
 }
 .header{
-    background:#fff
+    background:#fff;
 }
 .header .headermid{
     box-shadow:0 2px 6px 0 rgba(0,0,0,.15)
@@ -1286,7 +1286,7 @@ footer .followus a img{
 }
 .header .headermid{
     height:70px;
-    background-color:rgb(255, 255, 255);
+    background-color:red;
     border-top:1px solid rgba(36,39,44,.1);
     border-bottom: 1px solid gray;
 }
